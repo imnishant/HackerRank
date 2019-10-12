@@ -8,4 +8,3 @@ def count_substring(string, sub_string):
         if string[i : i + l] == sub_string:
             count += 1
     return (count)
-
